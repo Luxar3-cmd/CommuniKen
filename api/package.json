@@ -1,0 +1,17 @@
+{
+    "name": "CommuniKen",
+    "version": "1.0.0",
+    "main": "server.ts",
+    "scripts": {
+      "start": "bun run server.ts"
+    },
+    "dependencies": {
+      "elysia": "^0.1.0",
+      "@prisma/client": "^3.7.0"
+    },
+    "devDependencies": {
+      "typescript": "^4.4.3",
+      "prisma": "^3.7.0"
+    }
+  }
+  
